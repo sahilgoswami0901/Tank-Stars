@@ -44,5 +44,7 @@ Contact us:<br/>
 <br/>
 🧠 Hitesh Kumar: hitesh21255@iiitd.ac.in <br/> 
 🕶  Sahil Goswami: sahil21281@iiitd.ac.in <br/>
+🕶  Aman Sharma: aman21010@iiitd.ac.in <br/>
+
 
 
