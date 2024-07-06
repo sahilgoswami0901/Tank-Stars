@@ -39,7 +39,7 @@ You need the following to be installed in your system to work on this project:
 # Contributions <img src="https://github.com/sahilgoswami0901/Shopify/assets/107829550/5dfb3d9f-06d6-46d1-94cc-0f7ce72341f7" width="35" height="35">
 Contributions are welcome :)Make sure you understand the code and have the dependencies ready to go.
 # Need Help? <img src="https://github.com/sahilgoswami0901/Shopify/assets/107829550/4af264bb-3508-43cd-bc32-14317dad0dc6" width="35" height="35">
-Feel free to make bug reports on our issues. You can reach out to us in case you need further assistance.<br/>
+Feel free to make bug reports on our issues. You can reach out to us if you need further assistance.<br/>
 Contact us:<br/>
 <br/>
 🧠 Hitesh Kumar: hitesh21255@iiitd.ac.in <br/> 
